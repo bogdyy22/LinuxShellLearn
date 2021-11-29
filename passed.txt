@@ -1,0 +1,5 @@
+parola#1 = 123456
+parola#2 = qazwss
+parola#3 = qwerte
+parola#4 = tvuife
+parola#5 = gbbvvd
